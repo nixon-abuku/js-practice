@@ -1,6 +1,6 @@
 // PROJECT: NIGHT SHIFT LOG 
 // WHAT IT DOES: Loops through a list of shifts and calculates total hourse worked in a week 
-// Inpute: Array of shift objects .each with a day and hours property
+// Input: Array of shift objects .each with a day and hours property
 // Output : A summary printed to the console showing the total hours worked 
 
 // STEPS 
